@@ -10,7 +10,7 @@
 
 
 ## Main Functionalities
-Disable Order Email Changed
+Disable Notification Email Changed
 
 ## Installation
 \* = in production please use the `--keep-generated` option
